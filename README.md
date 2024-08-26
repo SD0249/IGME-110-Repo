@@ -1,6 +1,6 @@
 # My 110 Repo!!!
 
-__
+---
 
 ## Links
   - https://www.rit.edu/
