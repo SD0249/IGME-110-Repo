@@ -1,4 +1,4 @@
-# My listicle of RIT Academic Tools
+# My listicle of **RIT Tools**
 ---
 ## Academics
  - [**myCourses**](https://mycourses.rit.edu/)
