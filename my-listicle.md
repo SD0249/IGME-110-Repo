@@ -20,5 +20,5 @@
 
 ## Transportation
 - [Campus Shuttles](https://www.rit.edu/parking/campus-shuttles)
-- > *Recommended* **Passio GO!**
+- *Recommended* **Passio GO!**
 >> Can be downloaded on [Google Play](https://play.google.com/store/apps/details?id=com.passio3.go&hl=en_US&gl=US&pli=1) or [Apple App Store](https://apps.apple.com/us/app/passio-go/id1203861956)
